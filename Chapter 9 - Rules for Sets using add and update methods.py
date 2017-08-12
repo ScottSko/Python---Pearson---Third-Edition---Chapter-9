@@ -11,7 +11,7 @@ def main():
     #You cannot pass lists via the .add method.
 
     #For the .update method, it works the same as when you define the list. Using .update to add a string will add each individual character, not the full string.
-    #Since it works the same as when you define the list, you can only pass iterable items via the .update method. e.g., you cannot pass numbers via the .update method.
+    #Since it works the same as when you define the list, you can only pass iterable items via the .update method. i.e., you cannot pass numbers via the .update method.
     #You can pass lists via the .update method.
 
     myset = set("hello")
